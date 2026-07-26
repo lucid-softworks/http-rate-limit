@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/http-rate-limit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Sliding-window rate limiting middleware with standard headers.",
   "keywords": [
     "http",
